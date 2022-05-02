@@ -1,0 +1,20 @@
+﻿  UnitTest_for_Coursework.cpp
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(41,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(44,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(104,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(134,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(137,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(154,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Matrix_class.h(156,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Transport_Network_class.h(108,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Transport_Network_class.h(110,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Transport_Network_class.h(112,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Transport_Network_class.h(206,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Map_class.h(316): warning C4715: Red_Black_Tree<int,int>::find: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Map_class.h(342): warning C4715: Red_Black_Tree<int,int>::Get_map_element: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Map_class.h(342): warning C4715: Red_Black_Tree<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>::Get_map_element: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Transport_Network_class.h(181): warning C4715: Transport_Network::algorithmFordFulkerson: значение возвращается не при всех путях выполнения
+C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\ASD_COURSEWORK_SEM4\Map_class.h(316): warning C4715: Red_Black_Tree<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,int>::find: значение возвращается не при всех путях выполнения
+  UnitTest_for_Coursework.vcxproj -> C:\Users\xdvad\source\repos\ASD_COURSEWORK_SEM4\Debug\UnitTest_for_Coursework.dll
